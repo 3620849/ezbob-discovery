@@ -9,7 +9,7 @@ https://github.com/3620849/ezbob-service-shuffle
 https://github.com/3620849/ezbob-service-log
 
 ### USE
-there is only endpoint of application:[POST] http://localhost:8081?number=10 
+there is only endpoint of application:[POST] http://localhost:8081/shuffle?number=10 
 
 number in range 1-1000
 
