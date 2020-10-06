@@ -1,0 +1,13 @@
+logging:
+  level:
+    org.springframework: ERROR
+    com.weiss.discoveryserver: INFO
+  file: discovery-server.log
+server:
+  port: 8761
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+  server:
+    peer-node-read-timeout-ms: 10000
