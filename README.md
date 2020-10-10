@@ -1,4 +1,5 @@
 # Ezbob asessment
+author: 3620849@gmail.com
 ### Project structure
 project consist of three repoository:
 
